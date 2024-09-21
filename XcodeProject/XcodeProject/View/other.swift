@@ -42,13 +42,6 @@ struct StopGo: View {
     }
 }
 
-struct other_Previews: PreviewProvider {
-    static var previews: some View {
-        StopGo(PlayersNbaCav: arrayClv,PlayersOfCleveland:ArrayRoster)
-        
-    }
-    
-}
 
 struct StartAllTeam: View {
     @Binding var PlayersOfCleveland : [ClevelandTeam]
