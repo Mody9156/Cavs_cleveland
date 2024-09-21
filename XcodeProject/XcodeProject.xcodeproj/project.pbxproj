@@ -106,6 +106,7 @@
 		231554DC2B179ECB00B25D98 /* XcodeProject */ = {
 			isa = PBXGroup;
 			children = (
+				239D37552C9F587000E2C9DD /* ViewModel */,
 				239D37542C9F585D00E2C9DD /* View */,
 				239D37532C9F583A00E2C9DD /* Model */,
 				2368B0EC2B2709B300FBC5EC /* ArrayOfMatchs.swift */,
@@ -159,6 +160,13 @@
 			children = (
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		239D37552C9F587000E2C9DD /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
