@@ -108,7 +108,7 @@ struct StartAllTeam: View {
                     VStack {
                         Text(players.name).fontWeight(.bold)
                         Text(players.post).foregroundColor(.orange)
-                        Text("\(players.nuber)").font(.largeTitle)
+                        Text("\(players.number)").font(.largeTitle)
                     }
                    
                     
