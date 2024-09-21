@@ -106,6 +106,7 @@
 		231554DC2B179ECB00B25D98 /* XcodeProject */ = {
 			isa = PBXGroup;
 			children = (
+				239D37532C9F583A00E2C9DD /* Model */,
 				2368B0EC2B2709B300FBC5EC /* ArrayOfMatchs.swift */,
 				2368B0EA2B2708A100FBC5EC /* Matchs.swift */,
 				2375676E2B21E929000D1D70 /* tabViewOnPlayers.swift */,
@@ -143,6 +144,13 @@
 				231554FA2B179EDB00B25D98 /* XcodeProjectUITestsLaunchTests.swift */,
 			);
 			path = XcodeProjectUITests;
+			sourceTree = "<group>";
+		};
+		239D37532C9F583A00E2C9DD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
