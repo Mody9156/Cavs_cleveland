@@ -63,9 +63,9 @@
 		231554DC2B179ECB00B25D98 /* XcodeProject */ = {
 			isa = PBXGroup;
 			children = (
-				239D37552C9F587000E2C9DD /* ViewModel */,
-				239D37542C9F585D00E2C9DD /* View */,
 				239D37532C9F583A00E2C9DD /* Model */,
+				239D37542C9F585D00E2C9DD /* View */,
+				239D37552C9F587000E2C9DD /* ViewModel */,
 				231554DD2B179ECB00B25D98 /* XcodeProjectApp.swift */,
 				231554E12B179ED900B25D98 /* Assets.xcassets */,
 				231554E32B179ED900B25D98 /* Preview Content */,
